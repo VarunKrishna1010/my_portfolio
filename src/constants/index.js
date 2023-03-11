@@ -219,7 +219,7 @@ import {
       ],
       image: expense_tracker,
       icon: github,
-      source_code_link: "https://github.com/VarunKrishna1010/expense_tracker",
+      source_code_link: "https://github.com/VarunKrishna1010/expense_tracker/tree/develop",
     },
     {
       name: "Tweet Sentiment Analysis",
